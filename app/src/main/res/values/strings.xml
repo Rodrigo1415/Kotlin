@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="tvName">Hola mundo</string>
+    <string name="tvCorreo">Correo</string>
+</resources>
